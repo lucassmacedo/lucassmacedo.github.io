@@ -135,8 +135,8 @@ a.btn:hover {
   border: 2px solid rgba(255, 255, 255, 0.8);
 }
 .header .social a:hover {
-  color: #fff;
-  border-color: #fff;
+  color: #018fa1;
+  border-color: #018fa1;
 }
 .header .actions {
   position: absolute;
