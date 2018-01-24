@@ -951,16 +951,48 @@ a.btn:hover {
     .intro{
       padding-bottom: 0!important;
     }
-  .contact-info{
+    .contact-info{
       padding-top: 0!important;
       padding-bottom: 0!important;
     }
     .skills-section .skill-tag{
       box-shadow:none;
       border:none;
-          padding: 6px 20px;
+    padding: 6px 20px;
     }
     .section{
-      background: #000;
+      padding-top: 0!important;
+      padding-bottom: 0!important;
+      margin-bottom: 0!important;
+      margin-top: 0!important;
     }
+    .section-title{
+      margin-bottom:20px;
+    }
+    .wrapper {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    .timeline .item {
+        margin-bottom: 15px;
+    }
+    .list-inline {
+      width: 100%!important;
+      display: inline-block;
+    }
+    .list-inline li {
+      float: left;
+      margin: 0 auto!important;
+      width:33%!important;
+      display: inline-block;
+      text-align: center;
+    }
+    .skills-section .skill-tag{
+      padding: 6px 10px!important;
+      margin-right:0px!important;
+    }
+    #topcontrol{
+      display: none;
+    }
+
 }

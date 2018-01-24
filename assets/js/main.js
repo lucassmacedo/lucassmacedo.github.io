@@ -35,8 +35,6 @@ $(document).ready(function() {
     });
 
 
-
-
     /* ======= Isotope plugin ======= */
     /* Ref: http://isotope.metafizzy.co/ */
     // init Isotope
