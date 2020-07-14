@@ -32,10 +32,6 @@ a {
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
 }
-a:hover {
-  text-decoration: underline;
-  color: #007888;
-}
 a:focus {
   text-decoration: none;
 }
@@ -44,7 +40,6 @@ p {
 }
 .btn,
 a.btn {
-  background: #008fa1;
   color: #fff;
   padding: 8px 15px;
   -webkit-border-radius: 2px;
@@ -62,11 +57,7 @@ a.btn {
   font-weight: 500;
   font-size: 14px;
 }
-.btn:hover,
-a.btn:hover {
-  color: #fff;
-  background: #00a5bb;
-}
+
 #topcontrol {
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
