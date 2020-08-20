@@ -26,7 +26,7 @@ h6 {
   font-weight: 500;
 }
 a {
-  color: #00BCD4;
+  color: #3498db;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -63,7 +63,7 @@ a.btn {
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
-  background: #008fa1;
+  background: #3498db;
   color: #fff;
   text-align: center;
   display: inline-block;
@@ -83,7 +83,7 @@ a.btn {
   box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.3);
 }
 #topcontrol:hover {
-  background: #007888;
+  background: #2980b9;
   color: #fff;
 }
 #topcontrol .fa {
@@ -93,7 +93,7 @@ a.btn {
   font-weight: normal;
 }
 .header {
-  background: #00BCD4;
+  background: #3498db;
   color: #fff;
 }
 .header a {
@@ -165,7 +165,7 @@ a.btn {
   margin-bottom: 30px;
 }
 .header .intro {
-  background: #00a5bb;
+  background: #2980b9;
   padding-top: 90px;
   padding-bottom: 60px;
   position: relative;
@@ -176,7 +176,7 @@ a.btn {
   margin: 0 auto;
 }
 .header .contact-info {
-  background: #008fa1;
+  background: #3498db;
   padding-top: 30px;
   padding-bottom: 30px;
   font-size: 16px;
@@ -206,7 +206,7 @@ a.btn {
   position: relative;
 }
 .page-nav-wrapper {
-  background: #007888;
+  background: #2980b9;
   padding-top: 20px;
   padding-bottom: 20px;
   position: absolute;
@@ -222,7 +222,7 @@ a.btn {
   left: 0;
   width: 100%;
   z-index: 100;
-  background: #00BCD4;
+  background: #3498db;
 }
 .page-nav-wrapper a {
   color: rgba(255, 255, 255, 0.6);
@@ -291,7 +291,7 @@ a.btn {
   text-align: center;
 }
 .timeline {
-  border-left: 3px solid #00BCD4;
+  border-left: 3px solid #3498db;
   border-bottom-right-radius: 2px;
   border-top-right-radius: 2px;
   position: relative;
@@ -322,7 +322,7 @@ a.btn {
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
   background: #fff;
-  border: 3px solid #00BCD4;
+  border: 3px solid #3498db;
 }
 .timeline .item:after {
   content: "";
@@ -340,7 +340,7 @@ a.btn {
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
   background-clip: padding-box;
-  background: #00BCD4;
+  background: #3498db;
   z-index: 10;
 }
 .timeline .work-place {
@@ -359,7 +359,7 @@ a.btn {
   margin-top: 0;
   margin-bottom: 15px;
   font-size: 20px;
-  font-weight: 300;
+  font-weight:400;
 }
 .timeline .job-meta {
   position: absolute;
@@ -368,7 +368,7 @@ a.btn {
 }
 .timeline .job-meta .title {
   font-size: 18px;
-  color: #00BCD4;
+  color: #3498db;
 }
 .timeline .job-meta .time {
   color: #8a8a8a;
@@ -384,7 +384,7 @@ a.btn {
 }
 .education-section .degree {
   font-size: 18px;
-  color: #00BCD4;
+  color: #3498db;
   margin-top: 0;
   margin-bottom: 0px;
 }
@@ -484,7 +484,7 @@ a.btn {
   width: 36px;
   height: 36px;
   display: inline-block;
-  background: #00BCD4;
+  background: #3498db;
   color: #fff;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -520,7 +520,7 @@ a.btn {
   cursor: pointer;
 }
 .testimonials-section .carousel-indicators li.active {
-  background-color: #00BCD4;
+  background-color: #3498db;
   width: 10px;
   height: 10px;
   margin: 0;
@@ -548,8 +548,8 @@ a.btn {
   margin-right: 0;
 }
 .portfolio-section .filters .type.active {
-  color: #00BCD4;
-  border-bottom: 2px solid #00BCD4;
+  color: #3498db;
+  border-bottom: 2px solid #3498db;
 }
 .portfolio-section .item {
   margin-bottom: 30px;
@@ -558,7 +558,7 @@ a.btn {
   margin-bottom: 0;
 }
 .portfolio-section .item-inner {
-  background: #00BCD4;
+  background: #3498db;
   color: #fff;
   -webkit-border-radius: 2px;
   -moz-border-radius: 2px;
@@ -635,7 +635,7 @@ a.btn {
   margin-bottom: 15px;
 }
 .contact-section .service-list .fa {
-  color: #00BCD4;
+  color: #3498db;
 }
 .contact-section .social {
   margin-bottom: 0;
@@ -653,7 +653,7 @@ a.btn {
   color: #8a8a8a;
 }
 .contact-section .social a:hover {
-  color: #00BCD4;
+  color: #3498db;
 }
 .footer .container {
   padding: 30px;
@@ -864,7 +864,7 @@ a.btn {
   border: 2px solid #fff;
 }
 .config-panel #color-options li.theme-1 a {
-  background: #00BCD4;
+  background: #3498db;
 }
 .config-panel #color-options li.theme-2 a {
   background-color: #03A9F4;
